@@ -26,11 +26,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" height="50" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" height="50" width="50" />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" height="50" width="50"/>
-  <img src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png" height="50" width="50"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original.svg" height="50" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" height="50" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original-wordmark.svg" height="50" width="50"/>
- 
+  <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" height="50" width="80"/>  
+  <img src="https://banner2.cleanpng.com/20180411/lhw/kisspng-flask-python-bottle-web-framework-web-application-flask-5ace6e93eb8cb6.9246575015234781639648.jpg" height="50" width="60"/>
+  <img src="https://nodejs.org/static/images/logo.svg" height="50" width="70"/>
+  <img src="https://banner2.cleanpng.com/20180614/aut/kisspng-node-js-express-js-javascript-solution-stack-web-a-5b22b9d544a3c5.7437956215290024532812.jpg" height="50" width="80"/>
+   <img src="https://spark.apache.org/images/spark-logo-rev.svg" height="50" width="70"/>
   <br/>
   <br/>
   <br/>
