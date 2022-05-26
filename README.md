@@ -6,7 +6,6 @@
 - 📃 Currently working on my thesis
 
 
-<br/>
 <h3>Languages & Tools I've used before:</h3>
 <div>
     <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" height="52" width="52" />
@@ -30,8 +29,6 @@
   <img src="https://nodejs.org/static/images/logo.svg" height="50" width="70"/>
   <img src="https://banner2.cleanpng.com/20180614/aut/kisspng-node-js-express-js-javascript-solution-stack-web-a-5b22b9d544a3c5.7437956215290024532812.jpg" height="50" width="80"/>
    <img src="https://spark.apache.org/images/spark-logo-rev.svg" height="50" width="70"/>
-  <br/>
-  <br/>
   <br/>
 </div>
 
