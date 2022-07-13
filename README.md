@@ -3,8 +3,6 @@
 
 - 🎓 I'm on final year of studies in ECE @ NTUA
 - :octocat: My main field of interest is Software Engineering
-- 📃 Currently working on my thesis
-
 
 <h3>Languages & Tools I've used before:</h3>
 <div>
