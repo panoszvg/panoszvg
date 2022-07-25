@@ -1,7 +1,7 @@
 ## Hey there! I'm Panos 👋
 <h3>About me:</h3>
 
-- 🎓 I'm on final year of studies in ECE @ NTUA
+- 🎓 I'm a NTUA ECE Graduate
 - :octocat: My main field of interest is Software Engineering
 
 <h3>Languages & Tools I've used before:</h3>
