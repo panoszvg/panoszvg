@@ -35,7 +35,7 @@
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" height="50" width="50"/>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" height="50" width="80"/>  
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180411/lhw/kisspng-flask-python-bottle-web-framework-web-application-flask-5ace6e93eb8cb6.9246575015234781639648.jpg" height="50" width="60"/>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://nodejs.org/static/images/logo.svg" height="50" width="70"/>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" height="50" width="50"/>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180614/aut/kisspng-node-js-express-js-javascript-solution-stack-web-a-5b22b9d544a3c5.7437956215290024532812.jpg" height="50" width="80"/>
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.nicepng.com/png/full/10-107843_open-apache-spark-logo-png.png" height="50" width="90"/>
   <br/>
