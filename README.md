@@ -24,19 +24,18 @@
   <br/>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="50" width="50" />
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" height="50" width="50"/>
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/B/bash-logo-BF4F6893D9-seeklogo.com.png" height="50" width="50"/>
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/bash/bash-original.svg" height="50" width="50"/>
     <a href="https://subversion.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Apache_Subversion_logo.svg/180px-Apache_Subversion_logo.svg.png" height="50" width="60"/>
-    <a href="https://www.atlassian.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/A/atlassian-logo-DF2FCF6E4D-seeklogo.com.png" height="50" width="50"/>
-    <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/J/jira-logo-C71F8C0324-seeklogo.com.png" height="50" width="50"/>
-    <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/C/confluence-logo-D9B07137C2-seeklogo.com.png" height="50" width="50"/>
-    <a href="https://www.atlassian.com/software/bitbucket" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/B/bitbucket-logo-D072214725-seeklogo.com.png" height="50" width="50"/>
+    <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/jira/jira-original.svg" height="50" width="50"/>
+    <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/confluence/confluence-original.svg" height="50" width="50"/>
+    <a href="https://www.atlassian.com/software/bitbucket" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/bitbucket/bitbucket-original.svg" height="50" width="50"/>
   <br/>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" height="50" width="50" />
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" height="50" width="50"/>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" height="50" width="80"/>  
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180411/lhw/kisspng-flask-python-bottle-web-framework-web-application-flask-5ace6e93eb8cb6.9246575015234781639648.jpg" height="50" width="60"/>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" height="50" width="50"/>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180614/aut/kisspng-node-js-express-js-javascript-solution-stack-web-a-5b22b9d544a3c5.7437956215290024532812.jpg" height="50" width="80"/>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/flask/flask-original.svg" height="50" width="60"/>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nodejs/nodejs-original.svg" height="50" width="50"/>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/express/express-original.svg" height="50" width="80"/>
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.nicepng.com/png/full/10-107843_open-apache-spark-logo-png.png" height="50" width="90"/>
   <br/>
 </div>
