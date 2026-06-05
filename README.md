@@ -1,7 +1,7 @@
 ## Hey there! I'm Panos 👋
 
 - 👩‍💻 Software Engineer
-- 💼 Currently employed at XM, formerly at TSYS
+- 💼 Currently employed at XM
 - 🎓 Master's in Electrical & Computer Engineering from the National Technical University of Athens
 - :octocat: I love building and I'm always up for a new challenge
 - 🔧 Currently building an [Order Matching Engine](https://github.com/panoszvg/Order-Matching-Engine)
@@ -44,13 +44,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-
-### Stats
-
-![Panos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=panoszvg&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=panoszvg&layout=compact&theme=dark&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=panoszvg&theme=dark&hide_border=true)
 
 ### Where you can find me
 
